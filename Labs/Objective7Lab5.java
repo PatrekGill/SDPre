@@ -18,7 +18,7 @@ public class Objective7Lab5 {
 
             switch (selection) {
                 case 1:{
-                    System.out.println("Hello\n");
+                    System.out.println("Hello World\n");
                     break;
                 }
                 case 2:{
